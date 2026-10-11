@@ -2,7 +2,7 @@
 
 Junior Python / Django developer based in Oulu, Finland. I build web applications and REST APIs with Django and like to ship them with tests, CI and a working deployment.
 
-Open to trainee and junior developer roles in Oulu.
+Open to trainee and junior developer roles in Finland.
 
 ## Projects
 
